@@ -3,7 +3,7 @@
 ---
 
 ## Pikachu (Cheddar)
-[![Pikachu](../assets/pokemon-sprites/pikachu.png)]
+![Pikachu](../assets/pokemon-sprites/pikachu.png)
 ### Locations
 - Starter
 ### Moves
@@ -15,7 +15,7 @@
 ---
 
 ## Fearow (Zephyrax)
-[![Fearow](../assets/pokemon-sprites/fearow.png)]
+![Fearow](../assets/pokemon-sprites/fearow.png)
 ### Locations
 - Routes 3, 4, 9, 16, 18, 22 (Spearow)
 - Routes 9, 16, 17, 18, 23 (Fearow)
@@ -28,7 +28,7 @@
 ---
 
 ## Poliwrath (Thalassor)
-[![Poliwrath](../assets/pokemon-sprites/poliwrath.png)]
+![Poliwrath](../assets/pokemon-sprites/poliwrath.png)
 ### Locations
 - Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Virdian City, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Cinnabar Island, Cerulean Cave, Safari Zone & Seafoam Islands Good Rod (Poliwag)
 - Routes 22 & 23 Super Rod (Poliwhirl)
@@ -41,7 +41,7 @@
 ---
 
 ## Vileplume (Chloranthos)
-[![Vileplume](../assets/pokemon-sprites/vileplume.png)]
+![Vileplume](../assets/pokemon-sprites/vileplume.png)
 ### Locations
 - Routes 12, 13, 14, 15, 24, 25 (Oddish)
 - Routes 12, 13, 14, 15 (Gloom)
@@ -54,7 +54,7 @@
 ---
 
 ## Snorlax (Napturion)
-[![Snorlax](../assets/pokemon-sprites/snorlax.png)]
+![Snorlax](../assets/pokemon-sprites/snorlax.png)
 ### Locations
 - Routes 12 & 16
 ### Moves
@@ -66,7 +66,7 @@
 ---
 
 ## Flareon (Vulkaris)
-[![Flareon](../assets/pokemon-sprites/flareon.png)]
+![Flareon](../assets/pokemon-sprites/flareon.png)
 ### Locations
 - Celadon City Gift (Eevee)
 ### Moves
