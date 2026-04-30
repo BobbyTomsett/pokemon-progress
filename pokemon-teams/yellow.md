@@ -1,0 +1,36 @@
+# Pokémon Yellow Team
+## Pikachu (Cheddar)  
+- Thunderbolt (Level 26)  
+- Flash (HM05 - Route 2)
+- Body Slam (TM08 - S.S. Anne)
+- Thunder Wave (Level 8)
+
+## Fearow (Zephyrax)
+- Fly (HM02 - Route 16)
+- Swift (TM39 - Route 12)
+- Drill Peck (Level 34)
+- Rest (TM44 - S.S. Anne)
+
+## Poliwrath (Thalassor)
+- Earthquake (TM26 - Silph Co.)
+- Surf (HM03 - Safari Zone)
+- Strength (HM04 - Fuchsia City)
+- Submission (TM17 - Celadon Dept. Store)
+
+## Vileplume (Chloranthos)
+- Petal Dance (Level 38 - Gloom)
+- Mega Drain (TM21 - Celadon Gym)
+- Toxic (TM06 - Fuchsia Gym)
+- Cut (HM01 - S.S. Anne)
+
+## Snorlax (Napturion)
+- Rest (Level 1)
+- Hyper Beam (Level 56 / Game Corner)
+- Rock Slide (TM48 - Celadon Dept. Store)
+- Body Slam (Level 35)
+
+## Flareon (Vulkaris)
+- Flamethrower (Level 52)
+- Bite (Level 30)
+- Fire Blast (TM38 - Cinnabar Gym)
+- Reflect (Power Plant / Celadon Dept. Store)
