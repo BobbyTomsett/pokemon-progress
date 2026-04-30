@@ -3,7 +3,7 @@
 ---
 
 ## Pikachu (Cheddar)
-[![Pikachu](https://img.pokemondb.net/sprites/home/normal/pikachu.png)](https://pokemondb.net/pokedex/pikachu)
+[![Pikachu](/assets/pokemon-sprites/25.png)]
 ### Locations
 - Starter
 ### Moves
