@@ -1,5 +1,9 @@
 # Pokémon Yellow Team
+
+---
+
 ## Pikachu (Cheddar)
+[![Pikachu](https://img.pokemondb.net/sprites/home/normal/pikachu.png)](https://pokemondb.net/pokedex/pikachu)
 ### Locations
 - Starter
 ### Moves
@@ -8,7 +12,10 @@
 - Body Slam (TM08 - S.S. Anne)
 - Thunder Wave (Level 8)
 
+---
+
 ## Fearow (Zephyrax)
+[![Fearow](https://img.pokemondb.net/sprites/home/normal/fearow.png)](https://pokemondb.net/pokedex/fearow)
 ### Locations
 - Routes 3, 4, 9, 16, 18, 22 (Spearow)
 - Routes 9, 16, 17, 18, 23 (Fearow)
@@ -18,7 +25,10 @@
 - Drill Peck (Level 34)
 - Rest (TM44 - S.S. Anne)
 
+---
+
 ## Poliwrath (Thalassor)
+[![Poliwrath](https://img.pokemondb.net/sprites/home/normal/poliwrath.png)](https://pokemondb.net/pokedex/poliwrath)
 ### Locations
 - Routes 6, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23, 24, 25, Pallet Town, Virdian City, Cerulean Cave, Vermilion City, Celadon City, Fuchsia City, Cinnabar Island, Cerulean Cave, Safari Zone & Seafoam Islands Good Rod (Poliwag)
 - Routes 22 & 23 Super Rod (Poliwhirl)
@@ -28,7 +38,10 @@
 - Strength (HM04 - Fuchsia City)
 - Submission (TM17 - Celadon Dept. Store)
 
+---
+
 ## Vileplume (Chloranthos)
+[![Vileplume](https://img.pokemondb.net/sprites/home/normal/vileplume.png)](https://pokemondb.net/pokedex/vileplume)
 ### Locations
 - Routes 12, 13, 14, 15, 24, 25 (Oddish)
 - Routes 12, 13, 14, 15 (Gloom)
@@ -38,7 +51,10 @@
 - Toxic (TM06 - Fuchsia Gym)
 - Cut (HM01 - S.S. Anne)
 
+---
+
 ## Snorlax (Napturion)
+[![Snorlax](https://img.pokemondb.net/sprites/home/normal/snorlax.png)](https://pokemondb.net/pokedex/snorlax)
 ### Locations
 - Routes 12 & 16
 ### Moves
@@ -47,7 +63,10 @@
 - Rock Slide (TM48 - Celadon Dept. Store)
 - Body Slam (Level 35)
 
+---
+
 ## Flareon (Vulkaris)
+[![Flareon](https://img.pokemondb.net/sprites/home/normal/flareon.png)](https://pokemondb.net/pokedex/flareon)
 ### Locations
 - Celadon City Gift (Eevee)
 ### Moves
