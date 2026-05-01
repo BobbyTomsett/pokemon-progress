@@ -40,7 +40,7 @@
 
 ---
 
-## Vileplume (Chloranthos)
+## Vileplume (Chlorantos)
 ![Vileplume](../assets/pokemon-sprites/vileplume.png)
 ### Locations
 - Routes 12, 13, 14, 15, 24, 25 (Oddish)
