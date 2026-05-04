@@ -1,4 +1,4 @@
-# Pokémon Ruby Team
+# Pokémon Black Team
 
 ---
 
