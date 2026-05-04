@@ -1,4 +1,4 @@
-# Pokémon Leaf Green Team
+# Pokémon Emerald Team
 
 ---
 
