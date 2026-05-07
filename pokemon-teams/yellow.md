@@ -25,7 +25,7 @@
 ## Poliwrath (Thalassor)
 ![Poliwrath](../assets/pokemon-sprites/poliwrath.png)
 ### Moves
-- Earthquake (TM26 - Silph Co.)
+- Earthquake 
 - Surf
 - Strength
 - Submission (TM17 - Celadon Dept. Store)
@@ -35,9 +35,9 @@
 ## Vileplume (Chlorantos)
 ![Vileplume](../assets/pokemon-sprites/vileplume.png)
 ### Moves
-- Petal Dance (Level 38 - Gloom)
+- Petal Dance
 - Mega Drain
-- Toxic (TM06 - Fuchsia Gym)
+- Acid
 - Cut
 
 ---
@@ -48,7 +48,7 @@
 - Rest
 - Hyper Beam (Level 56 / Game Corner)
 - Rock Slide
-- Body Slam (Level 35)
+- Body Slam
 
 ---
 
@@ -58,4 +58,4 @@
 - Flamethrower (Level 52)
 - Bite
 - Fire Blast (TM38 - Cinnabar Gym)
-- Reflect (Power Plant / Celadon Dept. Store)
+- Reflect
