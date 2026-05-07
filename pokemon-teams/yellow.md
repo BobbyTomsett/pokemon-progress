@@ -28,7 +28,7 @@
 - Earthquake 
 - Surf
 - Strength
-- Submission (TM17 - Celadon Dept. Store)
+- Submission
 
 ---
 
@@ -46,7 +46,7 @@
 ![Snorlax](../assets/pokemon-sprites/snorlax.png)
 ### Moves
 - Rest
-- Hyper Beam (Level 56 / Game Corner)
+- Strength
 - Rock Slide
 - Body Slam
 
@@ -57,5 +57,5 @@
 ### Moves
 - Flamethrower (Level 52)
 - Bite
-- Fire Blast (TM38 - Cinnabar Gym)
+- Fire Blast
 - Reflect
