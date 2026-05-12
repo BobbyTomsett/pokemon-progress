@@ -12,7 +12,7 @@
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Silver | Game Boy Color |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Crystal | Game Boy Color |
 | <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Ruby](../pokemon-teams/ruby.md) | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Sapphire | Game Boy Advance |
+| <p align="center">✅</p> | <p align="center">❌</p> | [Pokémon Sapphire](../pokemon-teams/sapphire.md) | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Emerald](../pokemon-teams/emerald.md) | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Fire Red | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Leaf Green](../pokemon-teams/leafgreen.md) | Game Boy Advance |
