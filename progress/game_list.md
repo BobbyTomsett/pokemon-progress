@@ -1,26 +1,29 @@
-# Main Series
+# Pokémon Game Collection
+
+## Main Series
+
 | Owned | Complete | Title | Platform |
-|-------|----------|-------|----------|
+| ----- | -------- | ----- | -------- |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Red | Game Boy |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Green[^1]| Game Boy |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Blue | Game Boy |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Yellow | Game Boy Color |
+| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Green[^1] | Game Boy |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Blue](../pokemon-teams/blue.md) | Game Boy |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Yellow](../pokemon-teams/yellow.md) | Game Boy Color |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Gold | Game Boy Color |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Silver | Game Boy Color |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Crystal | Game Boy Color |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Ruby | Game Boy Advance |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Ruby](../pokemon-teams/ruby.md) | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Sapphire | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Emerald | Game Boy Advance |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Emerald](../pokemon-teams/emerald.md) | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Fire Red | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Leaf Green | Game Boy Advance |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Leaf Green](../pokemon-teams/leafgreen.md) | Game Boy Advance |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Diamond | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pearl | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Platinum | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Heart Gold | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Platinum](../pokemon-teams/platinum.md) | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Heart Gold](../pokemon-teams/heartgold.md) | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon SoulSilver | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Black | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Black](../pokemon-teams/black.md) | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon White | DS |
-| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Black 2 | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Black 2](../pokemon-teams/black2.md) | DS |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon White 2 | DS |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon X | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Y | 3DS |
@@ -43,9 +46,10 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Wind[^2] | Switch 2 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Waves[^2] | Switch 2 |
 
-# Spin-Offs
+## Spin-Offs
+
 | Owned | Complete | Title | Platform |
-|-------|----------|-------|----------|
+| ----- | -------- | ----- | -------- |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Stadium | Nintendo 64 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Stadium 2 | Nintendo 64 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Box: Ruby and Sapphire | GameCube |
@@ -113,6 +117,7 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pokopia | Switch 2 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Champions | Switch/Mobile |
 
-# Footnotes
+## Footnotes
+
 [^1]: Japan Exclusive
 [^2]: Not yet released
