@@ -3,8 +3,11 @@
 ---
 
 ## Blastoise (Donatello)
-![Blastoise](../assets/pokemon-sprites/blastoise.png)  
+
+![Blastoise](../assets/pokemon-sprites/0009_blastoise.png)  
+
 ### Moves
+
 - Bite
 - Blizzard
 - Bubblebeam
@@ -13,8 +16,11 @@
 ---
 
 ## Pidgeot (Yatagarasu)
-![Pidgeot](../assets/pokemon-sprites/pidgeot.png)  
+
+![Pidgeot](../assets/pokemon-sprites/0018_pidgeot.png)  
+
 ### Moves
+
 - Wing Attack
 - Fly
 - Quick Attack
@@ -23,8 +29,11 @@
 ---
 
 ## Nidoking (Baragon)
-![Nidoking](../assets/pokemon-sprites/nidoking.png)  
+
+![Nidoking](../assets/pokemon-sprites/0034_nidoking.png)  
+
 ### Moves
+
 - Strength
 - Thrash
 - Submission
@@ -33,8 +42,11 @@
 ---
 
 ## Alakazam (Yurigell)
-![Alakazam](../assets/pokemon-sprites/alakazam.png)  
+
+![Alakazam](../assets/pokemon-sprites/0065_alakazam.png)  
+
 ### Moves
+
 - Psybeam
 - Psychic
 - Thunder Wave
@@ -43,8 +55,11 @@
 ---
 
 ## Victreebel (Victorio)
-![Victreebel](../assets/pokemon-sprites/victreebel.png)  
+
+![Victreebel](../assets/pokemon-sprites/0071_victreebel.png)  
+
 ### Moves
+
 - Vine Whip
 - Growth
 - Cut
@@ -53,8 +68,11 @@
 ---
 
 ## Jolteon (Voltage)
-![Jolteon](../assets/pokemon-sprites/jolteon.png)  
+
+![Jolteon](../assets/pokemon-sprites/0135_jolteon.png)  
+
 ### Moves
+
 - Thunderbolt
 - Thunder Wave
 - Swift

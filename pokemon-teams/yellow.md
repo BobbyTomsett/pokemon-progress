@@ -4,7 +4,7 @@
 
 ## Pikachu (Cheddar)
 
-![Pikachu](../assets/pokemon-sprites/pikachu.png)
+![Pikachu](../assets/pokemon-sprites/0025_pikachu.png)
 
 ### Moves
 
@@ -17,7 +17,7 @@
 
 ## Fearow (Zephyrax)
 
-![Fearow](../assets/pokemon-sprites/fearow.png)
+![Fearow](../assets/pokemon-sprites/0022_fearow.png)
 
 ### Moves
 
@@ -30,7 +30,7 @@
 
 ## Poliwrath (Thalassor)
 
-![Poliwrath](../assets/pokemon-sprites/poliwrath.png)
+![Poliwrath](../assets/pokemon-sprites/0062_poliwrath.png)
 
 ### Moves
 
@@ -43,7 +43,7 @@
 
 ## Vileplume (Chlorantos)
 
-![Vileplume](../assets/pokemon-sprites/vileplume.png)
+![Vileplume](../assets/pokemon-sprites/0045_vileplume.png)
 
 ### Moves
 
@@ -56,7 +56,7 @@
 
 ## Snorlax (Napturion)
 
-![Snorlax](../assets/pokemon-sprites/snorlax.png)
+![Snorlax](../assets/pokemon-sprites/0143_snorlax.png)
 
 ### Moves
 
@@ -69,7 +69,7 @@
 
 ## Flareon (Vulkaris)
 
-![Flareon](../assets/pokemon-sprites/flareon.png)
+![Flareon](../assets/pokemon-sprites/0136_flareon.png)
 
 ### Moves
 
