@@ -2,7 +2,7 @@
 
 ```markdown
 
-# Pokémon Black 2 Team
+# Pokémon [Game] Team
 
 ---
 
