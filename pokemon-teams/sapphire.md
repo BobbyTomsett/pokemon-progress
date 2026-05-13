@@ -18,7 +18,7 @@
 
 - **Item:**  
 - **Ability:** Blaze  
-- **Nature:**  
+- **Nature:** Brave  
 
 ---
 
@@ -38,7 +38,7 @@
 - **Location:** Rusturf Tunnel (Whismur)
 - **Item:**  
 - **Ability:** Soundproof  
-- **Nature**  
+- **Nature** Bold  
 
 ---
 
