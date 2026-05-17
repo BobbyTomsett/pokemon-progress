@@ -1,1 +1,1 @@
-[![Gif](/assets/s32.gif)]
+![Gif](/assets/s32.gif)
