@@ -9,7 +9,7 @@
 
 ### Moves
 
-- Flamethrower (TM35 - Mauville Game Corner)
+- Flamethrower
 - Slash (Level 42)
 - Brick Break (Sootopolis City)
 - Rock Smash
@@ -29,8 +29,8 @@
 ### Moves
 
 - Strength
-- Stomp
-- Toxic (TM06 - Fiery Path)
+- Return
+- Toxic
 - Facade (TM42 - Petalburg Gym)
 
 ### Misc
@@ -49,7 +49,7 @@
 
 - Dig
 - AncientPower (Level 37)
-- Metal Claw (Level 25)
+- Metal Claw
 - Cut
 
 ### Misc
