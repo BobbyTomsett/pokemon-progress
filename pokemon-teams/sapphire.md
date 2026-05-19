@@ -12,7 +12,7 @@
 - Flamethrower (TM35 - Mauville Game Corner)
 - Slash (Level 42)
 - Brick Break (Sootopolis City)
-- Rock Smash (HM06 - Mauville City)
+- Rock Smash
 
 ### Misc
 
@@ -28,8 +28,8 @@
 
 ### Moves
 
-- Strength (HM04 - Rusturf Tunnel)
-- Stomp (Level 29)
+- Strength
+- Stomp
 - Toxic (TM06 - Fiery Path)
 - Facade (TM42 - Petalburg Gym)
 
@@ -47,10 +47,10 @@
 
 ### Moves
 
-- Dig (TM28 - Route 114)
+- Dig
 - AncientPower (Level 37)
 - Metal Claw (Level 25)
-- Cut (HM01 - Rustboro City)
+- Cut
 
 ### Misc
 
