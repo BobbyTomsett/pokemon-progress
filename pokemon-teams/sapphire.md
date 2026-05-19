@@ -35,8 +35,7 @@
 
 ### Misc
 
-- **Location:** Rusturf Tunnel (Whismur)
-- **Item:**  
+- **Item:** Silk Scarf  
 - **Ability:** Soundproof  
 - **Nature** Bold  
 
@@ -55,10 +54,9 @@
 
 ### Misc
 
-- **Location:** Rustboro City (Claw Fossil - Route 111)  
 - **Item:**  
 - **Ability:** Battle Armor  
-- **Nature:**  
+- **Nature:** Modest  
 
 ---
 
@@ -82,7 +80,7 @@
 
 ---
 
-## Flygon (Pteransonia)
+## Flygon (Pterasonia)
 
 ![Flygon](../assets/pokemon-sprites/0330_flygon.png)  
 
@@ -95,10 +93,9 @@
 
 ### Misc
 
-- **Location:** Route 111
 - **Item:**  
 - **Ability:** Levitate  
-- **Nature:**  
+- **Nature:** Hardy  
 
 ---
 
