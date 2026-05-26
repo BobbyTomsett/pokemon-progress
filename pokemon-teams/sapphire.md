@@ -11,12 +11,12 @@
 
 - Flamethrower
 - Slash (Level 42)
-- Brick Break (Sootopolis City)
+- Brick Break
 - Rock Smash
 
 ### Misc
 
-- **Item:**  
+- **Item:** Charcoal  
 - **Ability:** Blaze  
 - **Nature:** Brave  
 
@@ -31,7 +31,7 @@
 - Strength
 - Return
 - Toxic
-- Facade (TM42 - Petalburg Gym)
+- Shock Wave
 
 ### Misc
 
@@ -48,13 +48,13 @@
 ### Moves
 
 - Dig
-- AncientPower (Level 37)
+- AncientPower
 - Metal Claw
 - Cut
 
 ### Misc
 
-- **Item:**  
+- **Item:** Quick Claw  
 - **Ability:** Battle Armor  
 - **Nature:** Modest  
 
@@ -66,17 +66,16 @@
 
 ### Moves
 
-- Dive (HM08 - Mossdeep City)
-- Surf (HM03 - Petalburg City)
-- Sludge Bomb (TM36 - Dewford Town)
-- Knock Off (Level 26)
+- Dive
+- Surf
+- Sludge Bomb
+- Return
 
 ### Misc
-
-- **Location:** Route 102, 117, and Petalburg City (Good Rod/Super Rod)  
-- **Item:**  
-- **Ability:** Shell Armor  
-- **Nature:**  
+ 
+- **Item:** Mystic Water  
+- **Ability:** Hyper Cutter  
+- **Nature:** Brave  
 
 ---
 
@@ -86,14 +85,14 @@
 
 ### Moves
 
-- Dragon Claw (TM02 - Meteor Falls)
-- Earthquake (TM26 - Seafloor Cavern)
-- Steel Wing (TM47 - Granite Cave)
-- Fly (HM02 - Route 119)
+- Dragon Breath
+- Earthquake
+- Steel Wing
+- Fly
 
 ### Misc
 
-- **Item:**  
+- **Item:** King's Rock 
 - **Ability:** Levitate  
 - **Nature:** Hardy  
 
@@ -105,14 +104,13 @@
 
 ### Moves
 
-- Thunderbolt (TM24 - Mauville Game Corner)
-- Ice Beam (TM13 - Sea Mauville)
-- Flash (HM05 - Granite Cave)
-- Waterfall (HM07 - Cave of Origin)
+- Thunderbolt
+- Ice Beam
+- Flash
+- Waterfall
 
 ### Misc
 
-- **Location:** Route 124 and 126 (Underwater)  
-- **Item:**  
+- **Item:** Magnet  
 - **Ability:** Volt Absorb  
-- **Nature:**  
+- **Nature:** Docile  
