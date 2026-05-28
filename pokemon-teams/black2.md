@@ -42,7 +42,7 @@
 
 ## Unfezant (Beakou)
 
-![Unfezant](../assets/pokemon-sprites/0521_unfezant-m.png)  
+![Unfezant](../assets/pokemon-sprites/0521_unfezant.png)  
 
 ### Moves
 
