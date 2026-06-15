@@ -10,7 +10,7 @@
 ### Moves
 
 - Flamethrower
-- Slash (Level 42)
+- Aerial Ace
 - Brick Break
 - Rock Smash
 
@@ -72,7 +72,7 @@
 - Return
 
 ### Misc
- 
+
 - **Item:** Mystic Water  
 - **Ability:** Hyper Cutter  
 - **Nature:** Brave  
@@ -92,7 +92,7 @@
 
 ### Misc
 
-- **Item:** King's Rock 
+- **Item:** King's Rock  
 - **Ability:** Levitate  
 - **Nature:** Hardy  
 
