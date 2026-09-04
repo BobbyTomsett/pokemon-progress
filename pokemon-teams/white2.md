@@ -1,5 +1,5 @@
 
-# Pokémon [Game] Team
+# Pokémon White 2 Team
 
 ---
 
