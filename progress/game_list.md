@@ -24,7 +24,7 @@
 | <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Black](../pokemon-teams/black.md) | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon White | DS |
 | <p align="center">✅</p> | <p align="center">✅</p> | [Pokémon Black 2](../pokemon-teams/black2.md) | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon White 2 | DS |
+| <p align="center">✅</p> | <p align="center">❌</p> | [Pokémon White 2](../pokemon-teams/white2.md) | DS |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon X | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Y | 3DS |
 | <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Omega Ruby | 3DS |
