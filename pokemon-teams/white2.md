@@ -22,7 +22,7 @@
 
 ---
 
-## Braviary (Liberti)
+## Braviary (Libertius)
 
 ![Braviary](../assets/pokemon-sprites/0628_braviary.png)  
 
