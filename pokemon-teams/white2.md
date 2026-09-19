@@ -10,35 +10,34 @@
 ### Moves
 
 - Energy Ball (TM - Aspertia City - Req. Surf)
-- Cut (HM - Virbank City)
+- Cut  
 - Aerial Ace (TM - Mistralton Runway)
-- Return (TM - Aspertia City)
+- Return  
 
 ### Misc
 
-- **Item:** Miracle Seed (Castelia City)  
+- **Item:** Miracle Seed    
 - **Ability:** Overgrow  
-- **Nature:**  
+- **Nature:** Relaxed  
 
 ---
 
-## Braviary (Libertius)
+## Braviary (Libertia)
 
 ![Braviary](../assets/pokemon-sprites/0628_braviary.png)  
 
 ### Moves
 
-- Aerial Ace (Obtain)
-- Slash (L28)
-- Fly (HM - Route 5)
+- Aerial Ace
+- Slash
+- Fly
 - Rock Slide (TM - Mistralton Cave)
 
 ### Misc
 
-- **Item:** Sharp Beak (Mistralton City)  
+- **Item:** Sharp Beak    
 - **Ability:** Defiant  
-- **Nature:**  
-- **Location:** Route 4 (Monday)  
+- **Nature:** Serious  
 
 ---
 
@@ -48,17 +47,16 @@
 
 ### Moves
 
-- Wake-Up Slap (L31 - Minccino)
-- Thief (TM - Virbank Complex)
-- Tail Slap (L25 - Minccino)
-- Work Up (TM - Aspertia City)
+- Wake-Up Slap
+- Bullet Seed
+- Tail Slap
+- Rock Blast
 
 ### Misc
 
-- **Item:** Silk Scarf (Virbank Complex)  
-- **Ability:** Technician  
-- **Nature:**  
-- **Location:** Route 16 (Minccino) - Route 6 Gift (Shiny Stone)  
+- **Item:** Silk Scarf  
+- **Ability:** Skill Link  
+- **Nature:** Rash  
 
 ---
 
@@ -88,17 +86,16 @@
 
 ### Moves
 
-- Strength (HM - Castelia Sewers)
+- Strength
 - Bulldoze (TM - Driftveil City)
-- Rock Slide (L33)
-- Wake-Up Slap (L20 - Timburr)
+- Rock Slide
+- Wake-Up Slap 
 
 ### Misc
 
-- **Item:** Life Orb (Battle Subway - 24BP)  
+- **Item:** Life Orb  
 - **Ability:** Sheer Force  
-- **Nature:**  
-- **Location:** Relic Passage (Timburr)  
+- **Nature:** Jolly    
 
 ---
 
