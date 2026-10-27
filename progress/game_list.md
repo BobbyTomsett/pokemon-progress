@@ -65,28 +65,28 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pinball | Game Boy Color |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pinball: Ruby & Sapphire | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Red Rescue Team | Game Boy Advance |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Blue Rescue Team | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Mystery Dungeon: Blue Rescue Team | DS |
 | <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Mystery Dungeon: Explorers of Time | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Darkness | DS |
 | <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Mystery Dungeon: Explorers of Sky | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Gates to Infinity | 3DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Super Mystery Dungeon | 3DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Mystery Dungeon: Gates to Infinity | 3DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Super Mystery Dungeon | 3DS |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Rescue Team DX | Switch |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Ranger | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Ranger: Shadows of Almia | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Ranger | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Ranger: Shadows of Almia | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Ranger: Guardian Signs | DS |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Rumble Blast | 3DS |
+| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Rumble Blast | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Rumble U | Wii U |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Rumble World | 3DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Rumble World | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Snap | Nintendo 64 |
 | <p align="center">❌</p> | <p align="center">❌</p> | New Pokémon Snap | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Puzzle League | Nintendo 64 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Puzzle Challenge | Game Boy Color |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Trozei! | DS |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Battle Trozei! | 3DS |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Shuffle | 3DS |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Picross | 3DS |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Café Mix | Switch |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Battle Trozei! | 3DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Shuffle | 3DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Picross | 3DS |
+| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Café Mix | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Hey You, Pikachu! | Nintendo 64 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Channel | Gamecube |
 | <p align="center">❌</p> | <p align="center">❌</p> | Detective Pikachu | 3DS |
@@ -112,7 +112,7 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Learn with Pokémon: Typing Adventure | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Conquest | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Art Academy | 3DS |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Quest | Switch |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Quest | Switch |
 | <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Unite | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pokopia | Switch 2 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Champions | Switch/Mobile |
