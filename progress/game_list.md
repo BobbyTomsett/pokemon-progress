@@ -66,7 +66,7 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pinball: Ruby & Sapphire | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Red Rescue Team | Game Boy Advance |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Blue Rescue Team | DS |
-| <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Time | DS |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Mystery Dungeon: Explorers of Time | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Explorers of Darkness | DS |
 | <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Mystery Dungeon: Explorers of Sky | DS |
 | <p align="center">✅</p> | <p align="center">❌</p> | Pokémon Mystery Dungeon: Gates to Infinity | 3DS |
