@@ -3,7 +3,7 @@
 
 ---
 
-## Primarina (Nickname)
+## Primarina (Ariopera)
 
 ![Primarina](../assets/pokemon-sprites/0730_primarina.png)  
 
@@ -22,7 +22,7 @@
 
 ---
 
-## Vikavolt (Nickname)
+## Vikavolt (Mjolnirax)
 
 ![Vikavolt](../assets/pokemon-sprites/0738_vikavolt.png)  
 
@@ -41,7 +41,7 @@
 
 ---
 
-## Turtonator (Nickname)
+## Turtonator (Ryujin)
 
 ![Turtonator](../assets/pokemon-sprites/0776_turtonator.png)  
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Pangoro (Nickname)
+## Pangoro (Bödvarki)
 
 ![Pangoro](../assets/pokemon-sprites/0675_pangoro.png)  
 
@@ -79,7 +79,7 @@
 
 ---
 
-## Tsareena (Nickname)
+## Tsareena (Mokosh)
 
 ![Tsareena](../assets/pokemon-sprites/0763_tsareena.png)  
 
@@ -98,7 +98,7 @@
 
 ---
 
-## Palossand (Nickname)
+## Palossand (Ozymandia)
 
 ![Palossand](../assets/pokemon-sprites/0770_palossand.png)  
 
