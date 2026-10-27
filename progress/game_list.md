@@ -113,7 +113,7 @@
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Conquest | DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Art Academy | 3DS |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Quest | Switch |
-| <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Unite | Switch |
+| <p align="center">✅</p> | <p align="center">✅</p> | Pokémon Unite | Switch |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Pokopia | Switch 2 |
 | <p align="center">❌</p> | <p align="center">❌</p> | Pokémon Champions | Switch/Mobile |
 
